@@ -1,2 +1,3 @@
 # Gnote
-note whatever
+Desktop note app 
+
